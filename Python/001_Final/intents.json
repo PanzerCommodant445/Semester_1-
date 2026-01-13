@@ -1,0 +1,114 @@
+{
+    "intents" :[
+    {
+      "tag": "greeting",
+      "patterns":["hello","sup","hey","yo","hi","good afternoon","good morning","hey there", "can you help me?"],
+      "responses":["hey there","how can i help you?","hello","ok", "what you diddy ahh blud","what do you want"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns":["i have to go","stupid bot","rating you one star","see you","nice talking","ok gtg","bye bye"],
+      "responses":["GET OUT!!!", "daps up*","gtg","bye diddy","just leave your a dissapointment to this company","adios","ok","see you later","ok","alr blud see you"]
+    },
+    {
+      "tag": "amg models",
+      "patterns": ["what is AMG?","what AMG cars do you have?","AMG models","fast mercedes"],
+      "responses": ["AMG models are our high-performance vehicles","Popular AMG cars include the C63, E63, GT, and AMG ONE"]
+    },
+    {
+      "tag": "electric cars",
+      "patterns": ["do you have electric cars?","mercedes ev","electric mercedes","EQ models"],
+      "responses": ["Yes! Our EQ lineup includes the EQS, EQE, EQB, and EQS SUV"]
+    },
+    {
+      "tag": "hybrid cars",
+      "patterns": ["do you sell hybrids?","hybrid mercedes","plug in hybrid"],
+      "responses": ["We offer plug-in hybrids like the C-Class, E-Class, and GLE hybrids"]
+    },
+    {
+      "tag": "suv options",
+      "patterns": ["what suvs do you have?","mercedes suv lineup","SUVs"],
+      "responses": ["Our SUV lineup includes the GLA, GLB, GLC, GLE, GLS, and G-Class"]
+    },
+    {
+      "tag": "sedan options",
+      "patterns": ["what sedans do you sell?","mercedes sedans"],
+      "responses": ["We offer the A-Class, C-Class, E-Class, S-Class, and Maybach sedans"]
+    },
+    {
+      "tag": "coupe convertible",
+      "patterns": ["do you sell convertibles?","mercedes coupe","convertible mercedes"],
+      "responses": ["Yes! We offer coupe and convertible models like the CLE, E-Class Cabriolet, and AMG GT"]
+    },
+    {
+      "tag": "pricing",
+      "patterns": ["how much does a mercedes cost?","price range","cheap mercedes"],
+      "responses": ["Prices start around $45,000 and go up depending on model and options"]
+    },
+    {
+      "tag": "financing",
+      "patterns": ["do you offer financing?","car loan","monthly payment"],
+      "responses": ["Yes, we offer flexible financing options and competitive rates"]
+    },
+    {
+      "tag": "leasing",
+      "patterns": ["can i lease?","leasing options","lease a mercedes"],
+      "responses": ["Leasing is available on most models with low monthly payments"]
+    },
+    {
+      "tag": "trade in",
+      "patterns": ["do you take trade ins?","trade my car","trade value"],
+      "responses": ["Yes, we accept trade-ins and offer competitive market values"]
+    },
+    {
+      "tag": "test drive",
+      "patterns": ["can i test drive?","book a test drive","drive the car"],
+      "responses": ["Absolutely! We can schedule a test drive at your convenience"]
+    },
+    {
+      "tag": "service",
+      "patterns": ["service department","maintenance","car service"],
+      "responses": ["Our certified technicians provide top-tier Mercedes-Benz service"]
+    },
+    {
+      "tag": "oil change",
+      "patterns": ["oil change","how often oil change"],
+      "responses": ["Mercedes recommends service every 10,000 miles or once a year"]
+    },
+    {
+      "tag": "warranty",
+      "patterns": ["warranty","how long is warranty","coverage"],
+      "responses": ["All new Mercedes vehicles include a 4-year/50,000-mile warranty"]
+    },
+    {
+      "tag": "certified pre owned",
+      "patterns": ["used mercedes","CPO","certified pre owned"],
+      "responses": ["Our Certified Pre-Owned vehicles are fully inspected and warrantied"]
+    },
+    {
+      "tag": "safety features",
+      "patterns": ["safety features","driver assist","how safe"],
+      "responses": ["Mercedes vehicles feature advanced driver assistance like Active Brake Assist and Blind Spot Assist"]
+    },
+    {
+      "tag": "interior features",
+      "patterns": ["interior","technology","screens"],
+      "responses": ["Our interiors include MBUX, digital displays, ambient lighting, and premium materials"]
+    },
+    {
+      "tag": "custom order",
+      "patterns": ["custom order","build my car","special order"],
+      "responses": ["You can fully customize and factory-order your Mercedes-Benz"]
+    },
+    {
+      "tag": "dealership hours",
+      "patterns": ["what time are you open?","hours","when do you close"],
+      "responses": ["We are open Monday through Saturday from 9 AM to 7 PM"]
+    },
+    {
+      "tag": "location",
+      "patterns": ["where are you located?","dealership address"],
+      "responses": ["We are located at your local Mercedes-Benz dealership. Let us know if you need directions"]
+    }
+  ]
+}
